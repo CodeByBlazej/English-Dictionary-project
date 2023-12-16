@@ -38,3 +38,16 @@
  .meaning-container{
   display: none;
  }
+
+ .btn{
+  background-color: salmon;
+  color: rgba(0,0,0 .3);
+  border: 5;
+  font-size: 18px;
+  border-radius: 25;
+  margin: 10px;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+ }
